@@ -1,2 +1,6 @@
-# PaversKart
-PaversKart is a Spring boot microservices based application.
+# springboot-microservices-project
+
+
+The project is still in-development.
+
+
